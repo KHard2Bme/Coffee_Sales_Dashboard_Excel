@@ -137,6 +137,8 @@ Questions the client has that can now be answered;
 1.
    - total sales $45,134, number of transactions 1,000, average sales $45.13, maximun sales $218.73 and minimum sales $2.69
    - by year
+  
+     
                 2019- $12,187, 259, $47.05, $204.93, $2.69
  
                 2020- $12,118, 263, $46.07, $189.75, $2.99
@@ -145,7 +147,9 @@ Questions the client has that can now be answered;
      
                 2022- $7,063, 166, $42.55, $204.93, $2.99
      - by country
-              US -   $43,552, 960, $45.37, $218.73, $2.69  Most ordered coffee type is Excelsa-light(28% at $12,044),most ordered size is 2.5kg (53% at $22,901)
+    
+
+               US -   $43,552, 960, $45.37, $218.73, $2.69  Most ordered coffee type is Excelsa-light(28% at $12,044),most ordered size is 2.5kg (53% at $22,901)
     
               Ireland -   $1,239, 28. $44.25, $178.71, $2.69   Most ordered coffee type is Liberica-Dark (36% at $800), most ordered size is 2.5kg (65% at $800)
        
@@ -212,7 +216,7 @@ The analysis results are summarized as follows:
   
 2.  With majority of sales coming from the United States the largest demand for coffee type is Excelsa Light with coffee size of 2.5kg (53%)
 
-3.  Customers without loyalty cards have a slightly higher total sales and transaction count overall compared to those with a card. Having a loyalty card provides no real advantage; for example, product  discounts, accrued points or shorter delivery time.
+3.  Customers without loyalty cards have a slightly higher total sales and transaction count overall compared to those with a card. There is no special services applied to having a loyalty card; for example, card should provide product discounts, accrued points, BOGO deals or shorter delivery time.
  
 4. Overall sales with no card is $24,216 with 521 transactions while those with a card is $20,918 with 479 transactions
 
@@ -221,7 +225,9 @@ The analysis results are summarized as follows:
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
-- In order for the company to see more sales by customers with a loyalty card there needs to be some advantages added. Maybee discounts applied to certain coffee tpyes, roasts or popular coffee sizes on special days or when enough points have been accrued. There can even be shorter delivery times applied as well.
+- In order for the company to see more sales by customers with a loyalty card there needs to be some features added.
+
+- With features added to loyalty card, regular users would want to upgrade and take advantage as well; company can apply a subscription fee.
 
 - There needs to be more sales taking place within Ireland and the United Kingdom; United States having 960 transactions while Ireland has 28 and the United Kingdom with 12.
 
