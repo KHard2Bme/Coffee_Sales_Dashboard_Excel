@@ -161,7 +161,7 @@ Questions the client has that can now be answered;
 
  - Ireland: overall sales trend for Liberica has been steady growth $88 Q12019 to high $179 Q42020, steady decline to lowest $23 Q42021,currently $43 Q12022
 
- - United Kingdom: overall sales trend for Excelsa has been steady growth $21 Q22019 through 2020, decline to lowest $12 Q4Oct 2021,price skyrocketed $84 Q4Sept 2021,currently at $22 Q12022
+ - United Kingdom: overall sales trend for Excelsa has been steady growth $21 Q22019 through 2020, decline to lowest $12 Q42021,price skyrocketed $84 Q42021,currently at $22 Q12022
  
 3. 
   Q22019 at $3,443 with there being 64 transactions and most ordered coffee type being Arabica (41%),most ordered coffee size 2.5kg (67% at $2,305) 
@@ -216,7 +216,7 @@ The analysis results are summarized as follows:
   
 2.  With majority of sales coming from the United States the largest demand for coffee type is Excelsa Light with coffee size of 2.5kg (53%)
 
-3.  Customers without loyalty cards have a slightly higher total sales and transaction count overall compared to those with a card. There is no special services applied to having a loyalty card; for example, card should provide product discounts, accrued points, BOGO deals or shorter delivery time.
+3.  Customers without loyalty cards have a slightly higher total sales and transaction count overall compared to those with a card. There is no special services applied to having a loyalty card; for example, card should provide product discounts, accruel of points the more you spend deals, BOGO sales and possibly optional delivery times ( overnight/next day ).
  
 4. Overall sales with no card is $24,216 with 521 transactions while those with a card is $20,918 with 479 transactions
 
@@ -225,10 +225,10 @@ The analysis results are summarized as follows:
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
-- In order for the company to see more sales by customers with a loyalty card there needs to be some features added.
+- In order for the company to see more sales, time and cost saving services need to be applied to the loyalty card.
 
-- With features added to loyalty card, regular users would want to upgrade and take advantage as well; company can apply a subscription fee.
+- With a newly revamped loyalty card existing users would take advantage of all the serivces, and those without would be highly interested in applying for card; subscription fee can be applied.
 
 - There needs to be more sales taking place within Ireland and the United Kingdom; United States having 960 transactions while Ireland has 28 and the United Kingdom with 12.
 
-- A complete dataset would be very beneficial in order to make a much better and acurate recommendation; missing 683 days of information and the year 2022 is missing 4 months of data.
+- A complete dataset would be very beneficial in order to make a more accurate prediction regarding health of the company and steps needed for the future; missing 683 days of information and the year 2022 missing 4 months of data.
