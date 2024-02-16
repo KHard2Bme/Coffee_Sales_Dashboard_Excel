@@ -13,6 +13,7 @@
 - [Results from Findings](#results-from-findings)
 - [Recommendations](#recommendations)
 
+![NEWdashboard](https://github.com/KHard2Bme/Coffee_Sales_Dashboard_Excel/assets/146769989/fb67e30e-415a-47c3-b220-01c04cc854b3)
 
 
 
@@ -23,7 +24,7 @@ This data analysis project aims to provide insights into the sales performance o
 
 
 
-![coffeedashboard](https://github.com/KHard2Bme/Coffee_Sales_Dashboard_Excel/assets/146769989/c0e91297-60e4-40bb-a251-6a577524dbe6)
+
 
 ### Requirements
 ---
