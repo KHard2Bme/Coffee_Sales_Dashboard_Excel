@@ -214,21 +214,21 @@ The analysis results are summarized as follows:
 
 1.  The United States makes up 96% of total sales within all regions, Ireland providing 3% followed by United Kingdom with a mere 1%
   
-2.  With majority of sales coming from the United States the largest demand for coffee type is Excelsa Light with coffee size of 2.5kg (53%)
+2.  With majority of sales coming from the United States the largest demand is for coffee type Excelsa, roast Light, and coffee size 2.5kg.
 
-3.  Customers without loyalty cards have a slightly higher total sales and transaction count overall compared to those with a card. There is no special services applied to having a loyalty card; for example, card should provide product discounts, accruel of points the more you spend deals, BOGO sales and possibly optional delivery times ( overnight/next day ).
+3.  Customers without loyalty cards have a slightly higher total sales and transaction count overall compared to those with a card. There is no special services applied to the loyalty card; for example, product discounts, accruel of points the more you spend, BOGO sales and possibly more delivery times ( overnight/next day ).
  
-4. Overall sales with no card is $24,216 with 521 transactions while those with a card is $20,918 with 479 transactions
+#### [Overall sales with no card is $24,216 with 521 transactions while those with a card is $20,918 with 479 transactions]
 
 
 
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
-- In order for the company to see more sales, time and cost saving services need to be applied to the loyalty card.
+- In order for the company to have more sales, special features and services need to be applied to the loyalty card.
 
-- With a newly revamped loyalty card existing users would take advantage of all the serivces, and those without would be highly interested in applying for card; subscription fee can be applied.
+- With a newly revamped loyalty card existing users would take advantage of the incentives and those without would be highly interested in applying for card; subscription and extra features fee can be applied.
 
-- There needs to be more sales taking place within Ireland and the United Kingdom; United States having 960 transactions while Ireland has 28 and the United Kingdom with 12.
+- There needs to be more sales taking place within Ireland and the United Kingdom.
 
-- A complete dataset would be very beneficial in order to make a more accurate prediction regarding health of the company and steps needed for the future; missing 683 days of information and the year 2022 missing 4 months of data.
+- A complete dataset would be beneficial in order to accertain the present health of the company and predict future trends; missing 683 days of information and the year 2022 missing 4 months of data.
