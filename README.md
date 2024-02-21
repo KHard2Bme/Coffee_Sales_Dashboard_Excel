@@ -44,7 +44,7 @@ Client wants to create a coffee sales dashboard for years 2019 through 2022 so t
 
               - Sales total in relation to coffee type, roast type, coffee size
   
-              . Chart showing total sales in relation top 5 customers who spend the most overall
+              . Chart showing total sales in relation top customers who spend the most overall
   
               - line chart showing trend of coffee type purchases over time
   
