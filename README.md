@@ -13,7 +13,8 @@
 - [Results from Findings](#results-from-findings)
 - [Recommendations](#recommendations)
 
-![coffeedashboard1](https://github.com/KHard2Bme/Coffee_Sales_Dashboard_Excel/assets/146769989/58af9098-627d-428b-90ad-76324be248d8)
+![Dashboard1](https://github.com/KHard2Bme/Coffee_Sales_Dashboard_Excel/assets/146769989/90f15810-aa6c-471f-9c43-391930e883d6)
+
 
 
 
@@ -80,7 +81,7 @@ Data loading and inspection:
 ### 2. Data Processing
  
  Creation of customized columns utilizing the following formulas:
--  XLOOKUP(), IF(), PROPER(), INDEX() & MATCH()
+-  XLOOKUP(), IF(), IFERROR(),PROPER(), INDEX() & MATCH()
 
 
 ### 3. Data Analysis
