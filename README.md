@@ -13,9 +13,7 @@
 - [Results from Findings](#results-from-findings)
 - [Recommendations](#recommendations)
 
-![Dashboard1](https://github.com/KHard2Bme/Coffee_Sales_Dashboard_Excel/assets/146769989/90f15810-aa6c-471f-9c43-391930e883d6)
-
-
+![Dashboard_Final](https://github.com/KHard2Bme/Coffee_Sales_Dashboard_Excel/assets/146769989/f72209fe-95ef-4fd5-9cce-8b6685b72e7c)
 
 
 ### Project Overview
