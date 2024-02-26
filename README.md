@@ -14,7 +14,7 @@
 - [Recommendations](#recommendations)
 
 
-![Final_Dashboard](https://github.com/KHard2Bme/Coffee_Sales_Dashboard_Excel/assets/146769989/4ffcfbfc-92b1-43aa-9e7a-61d237c0513f)
+![Final_D](https://github.com/KHard2Bme/Coffee_Sales_Dashboard_Excel/assets/146769989/b72ce4bf-cc41-4e5e-b7d2-d4fbcd0458d4)
 
 
 ### Project Overview
@@ -43,11 +43,11 @@ Client wants to create a coffee sales dashboard for years 2019 through 2022 so t
 
               - Sales total in relation to coffee type, roast type, coffee size
   
-              . Chart showing total sales in relation top customers who spend the most overall
+              . Chart showing total sales in each country
   
               - line chart showing trend of coffee type purchases over time
   
-              - Total sales of customers with and without loyalty card. 
+              - Bar chart showing top customers who purchased coffee. 
 
 
 
